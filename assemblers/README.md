@@ -1,1 +1,3 @@
-To view this iPython notebook [click here](http://nbviewer.ipython.org/github/sandyjmacdonald/iPython_notebooks/blob/master/assemblers/Metagenome_assembly.ipynb).
+To view these iPython notebooks click the links below.
+
+* [Metagenome assembly](http://nbviewer.ipython.org/github/sandyjmacdonald/iPython_notebooks/blob/master/assemblers/Metagenome_assembly.ipynb).
